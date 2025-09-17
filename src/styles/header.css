@@ -1,6 +1,8 @@
 
 .header-container {
   border-bottom: 1px solid #F3F4F6;
+ 
+  
 }
 
 .header {
@@ -10,7 +12,10 @@
   align-items: center;
   width: 100%;
   padding: 20px 180px;
-  backdrop-filter: blur(12px);
+   position: fixed;
+  left: 0;
+  top: 0;
+  backdrop-filter: blur(8px);
 }
 
 .header-logo {
