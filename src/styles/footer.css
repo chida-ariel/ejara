@@ -1,0 +1,48 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+}
+
+.top-footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 40px 180px;
+}
+
+.top-footer > img {
+  width: 100px;
+  height: auto;
+}
+
+.resource,
+.products {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.footer-downloads > img {
+  width: 180px;
+  height: auto;
+}
+
+.footer-downloads {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.bottom-footer {
+  padding: 40px 180px;
+  text-align: center;
+  border-top: 1px solid #F3F4F6;
+}
+
