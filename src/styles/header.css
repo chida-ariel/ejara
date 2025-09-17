@@ -34,6 +34,8 @@ ul {
   display: flex;
   flex-direction: row;
   gap: 8px;
+  justify-content: center;
+  align-items: center;
 }
 
 .mobile-menu {
