@@ -9,7 +9,6 @@ const App = () => {
     <div className='container'>
       <Header/>
       <SavingsBox/>
-      <SavingsBox/>
     </div>
   )
 }
