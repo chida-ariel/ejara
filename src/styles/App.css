@@ -1,11 +1,12 @@
 .container{
     width:100%;
-    max-width: 900px;
-    margin: 4rem auto;
-    padding: 20px;
+    /* max-width: 1200px; */
+    margin: 0rem auto;
     background-color: white;
     border-radius: 20px;
     display: flex;
     flex-direction: column;
+    /* align-items: center; */
+    justify-content: center;
     gap: 2rem;
 }

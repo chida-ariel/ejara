@@ -1,0 +1,35 @@
+
+.header-container {
+  border-bottom: 1px solid #F3F4F6;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 20px 180px;
+}
+
+.header-logo {
+  width: 100px;
+  height: auto;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  gap: 48px;
+}
+
+.region {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+}
+
+.mobile-menu {
+  display: none;
+}
