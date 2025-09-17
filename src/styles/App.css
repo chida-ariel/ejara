@@ -1,0 +1,11 @@
+.container{
+    width:100%;
+    max-width: 900px;
+    margin: 4rem auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
