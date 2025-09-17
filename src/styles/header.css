@@ -10,6 +10,7 @@
   align-items: center;
   width: 100%;
   padding: 20px 180px;
+  backdrop-filter: blur(12px);
 }
 
 .header-logo {
@@ -28,6 +29,8 @@ ul {
   display: flex;
   flex-direction: row;
   gap: 8px;
+  justify-content: center;
+  align-items: center;
 }
 
 .mobile-menu {
