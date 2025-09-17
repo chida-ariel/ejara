@@ -1,0 +1,24 @@
+.img {
+    width: 26rem;
+    background-color: rgb(233, 242, 243);
+}
+.save {
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+}
+.savings {
+    display: flex;
+    flex-direction: row;
+    gap: 8rem;
+    padding: 0px 180px;
+}
+.arrow {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 48px;
+    width: 48px;
+    border-radius: 50%;
+    background-color: rgb(244, 247, 246);
+}
