@@ -1,0 +1,17 @@
+.project{
+    display: flex;
+    flex-direction: row;
+    gap: 8rem;
+    padding: 0px 180px;
+}
+.ima{
+    width: 26rem;
+    background-color: rgb(223, 253, 223);
+    border-radius: 25px;
+}
+
+.saving{
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+}

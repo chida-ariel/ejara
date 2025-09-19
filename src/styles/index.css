@@ -1,7 +1,12 @@
+@font-face {
+  font-family: DMSans;
+  src: url(../assets/fonts/DMSans-VariableFont_opsz\,wght.ttf);
+}
 * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  font-family: DMSans, sans-serif;
 }
 
 .root {
